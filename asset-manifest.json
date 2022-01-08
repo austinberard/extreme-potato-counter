@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/extreme-potato-counter/static/css/main.073c9b0a.css",
-    "main.js": "/extreme-potato-counter/static/js/main.b421b310.js",
+    "main.js": "/extreme-potato-counter/static/js/main.b2076f0c.js",
     "static/js/787.ec10ac5b.chunk.js": "/extreme-potato-counter/static/js/787.ec10ac5b.chunk.js",
     "static/media/logo.svg": "/extreme-potato-counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/extreme-potato-counter/index.html",
     "main.073c9b0a.css.map": "/extreme-potato-counter/static/css/main.073c9b0a.css.map",
-    "main.b421b310.js.map": "/extreme-potato-counter/static/js/main.b421b310.js.map",
+    "main.b2076f0c.js.map": "/extreme-potato-counter/static/js/main.b2076f0c.js.map",
     "787.ec10ac5b.chunk.js.map": "/extreme-potato-counter/static/js/787.ec10ac5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b421b310.js"
+    "static/js/main.b2076f0c.js"
   ]
 }
